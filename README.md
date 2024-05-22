@@ -1,7 +1,7 @@
 #   Relógio Digital
 
 - Realização de um relógio digital que exibe a hora atual e atualiza em tempo real.
-- 
+  
 - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
 # Visualize o site abaixo:

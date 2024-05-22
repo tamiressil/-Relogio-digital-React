@@ -6,7 +6,7 @@
 
 # Visualize o site abaixo:
 
-[Veja-o aqui!](https://contador-xi-topaz.vercel.app/)
+[Veja-o aqui!](https://relogio-digital-react-rho.vercel.app/)
 
 ## Tecnologias Usadas:
 
@@ -18,4 +18,5 @@
 
 ## Imagem do projeto:
 
-![image](https://github.com/tamiressil/Rel-gio_Digital/assets/163886976/6866fedf-b8a1-4e02-83a3-30436b12dfc2)
+![image](https://github.com/tamiressil/-Relogio-digital-React/assets/163886976/f4e0ad94-5d95-46ac-bd4e-3be67a7db4b4)
+
